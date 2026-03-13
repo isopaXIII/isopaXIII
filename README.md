@@ -1,8 +1,16 @@
-# 👋 Hello, I'm 1controlable
+# 👋 Hello, I'm **1controlable**
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=isopaXIII&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=isopaXIII&label=Profile%20views&color=8A2BE2&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-Researcher-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/OSINT-Developer-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python%20%26%20JavaScript-Automation-8A2BE2?style=for-the-badge">
 
 </p>
 
@@ -20,14 +28,14 @@ I am passionate about **cybersecurity, OSINT (Open Source Intelligence), and inf
 
 I enjoy building **terminal-based frameworks and automation tools** focused on network intelligence and security research.
 
-My interests include:
+My main interests include:
 
-* OSINT development
-* Python automation
-* JavaScript development
-* Network reconnaissance
-* Infrastructure analysis
-* Security research
+• OSINT development
+• Python automation
+• JavaScript development
+• Network reconnaissance
+• Infrastructure analysis
+• Security research
 
 ---
 
@@ -35,17 +43,17 @@ My interests include:
 
 ## ☀️ SOLAR-BOOM OSINT Framework
 
-A lightweight **terminal-based OSINT framework** written in Python.
+A lightweight **terminal-based OSINT framework** written in Python designed for infrastructure and intelligence analysis.
 
-Main features:
+### Main Features
 
-* IP Intelligence
-* Domain reconnaissance
-* Email infrastructure analysis
-* Port scanning
-* Username investigation
-* HTTP header analysis
-* SSL certificate inspection
+• IP Intelligence
+• Domain reconnaissance
+• Email infrastructure analysis
+• Port scanning
+• Username investigation
+• HTTP header analysis
+• SSL certificate inspection
 
 Project repository:
 
@@ -55,14 +63,14 @@ https://github.com/isopaXIII/solar-boom
 
 ## ⚡ ISOPA.XIII NUKER
 
-A modular automation tool designed for fast command execution and server interaction.
+A modular automation tool designed for **fast command execution and server interaction**.
 
-Main features:
+### Main Features
 
-* Automation modules
-* Server interaction utilities
-* Rapid command execution systems
-* Modular architecture
+• Automation modules
+• Server interaction utilities
+• Rapid command execution systems
+• Modular architecture
 
 Project repository:
 
@@ -72,7 +80,7 @@ https://github.com/isopaXIII/ISOPA.XIII-NUKER
 
 # 🛠 Technologies
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,javascript,linux,git,github,vscode"/>
 
@@ -80,21 +88,21 @@ https://github.com/isopaXIII/ISOPA.XIII-NUKER
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=isopaXIII&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isopaXIII&show_icons=true&theme=midnight-purple"/>
 
 </p>
 
 ---
 
-# 📈 Top Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isopaXIII&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isopaXIII&layout=compact&theme=midnight-purple"/>
 
 </p>
 
@@ -102,10 +110,10 @@ https://github.com/isopaXIII/ISOPA.XIII-NUKER
 
 # 🎯 Goals
 
-* Build powerful OSINT frameworks
-* Develop advanced cybersecurity tools
-* Contribute to open-source security projects
-* Explore network intelligence technologies
+• Build powerful OSINT frameworks
+• Develop advanced cybersecurity tools
+• Contribute to open-source security projects
+• Explore network intelligence technologies
 
 ---
 
@@ -117,6 +125,6 @@ All projects are developed for **educational purposes and legitimate security re
 
 <p align="center">
 
-⭐ If you like my work, consider following my profile.
+⭐ If you like my work, consider **following my profile**.
 
 </p>
