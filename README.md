@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=isopaXIII&label=Profile%20views&color=0e75b6&style=flat" />
 
 </p>
 
@@ -84,7 +84,7 @@ https://github.com/isopaXIII/ISOPA.XIII-NUKER
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isopaXIII&show_icons=true&theme=dark"/>
 
 </p>
 
@@ -94,7 +94,7 @@ https://github.com/isopaXIII/ISOPA.XIII-NUKER
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isopaXIII&layout=compact&theme=dark"/>
 
 </p>
 
