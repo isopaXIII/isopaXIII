@@ -49,7 +49,7 @@ Main features:
 
 Project repository:
 
-https://github.com/YOUR_USERNAME/solar-boom
+https://github.com/isopaXIII/solar-boom
 
 ---
 
