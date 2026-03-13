@@ -8,7 +8,7 @@
 
 <p align="center">
 
-Cybersecurity Enthusiast • OSINT Developer • Python Automation
+Cybersecurity Enthusiast • OSINT Developer • Python & JavaScript Automation
 
 </p>
 
@@ -24,6 +24,7 @@ My interests include:
 
 * OSINT development
 * Python automation
+* JavaScript development
 * Network reconnaissance
 * Infrastructure analysis
 * Security research
@@ -36,7 +37,7 @@ My interests include:
 
 A lightweight **terminal-based OSINT framework** written in Python.
 
-Features:
+Main features:
 
 * IP Intelligence
 * Domain reconnaissance
@@ -46,11 +47,22 @@ Features:
 * HTTP header analysis
 * SSL certificate inspection
 
+Project repository:
+
+https://github.com/YOUR_USERNAME/solar-boom
+
 ---
 
 ## ⚡ ISOPA.XIII NUKER
 
-Automation and infrastructure interaction tool.
+A modular automation tool designed for fast command execution and server interaction.
+
+Main features:
+
+* Automation modules
+* Server interaction utilities
+* Rapid command execution systems
+* Modular architecture
 
 Project repository:
 
@@ -62,7 +74,7 @@ https://github.com/isopaXIII/ISOPA.XIII-NUKER
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,linux,git,github,vscode"/>
 
 </p>
 
