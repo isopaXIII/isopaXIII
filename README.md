@@ -41,23 +41,6 @@ My main interests include:
 
 # 🔥 Featured Projects
 
-## ☀️ SOLAR-BOOM OSINT Framework
-
-A lightweight **terminal-based OSINT framework** written in Python designed for infrastructure and intelligence analysis.
-
-### Main Features
-
-• IP Intelligence
-• Domain reconnaissance
-• Email infrastructure analysis
-• Port scanning
-• Username investigation
-• HTTP header analysis
-• SSL certificate inspection
-
-Project repository:
-
-https://github.com/isopaXIII/solar-boom
 
 ---
 
